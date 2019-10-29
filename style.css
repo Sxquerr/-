@@ -1,9 +1,33 @@
-* {
+/* * { 
     margin: 0;
     padding: 0;
+} */
+.ul1 {
+    list-style: none;
 }
-header {
-    background: #5c5766;
-    width: 100%;
-    display: flex;
+.knopochka1 {
+border: 2px;
+width: 86px;
+height: 78px;
+border-radius: 6px;
+background-color: #ffd670;
 }
+.knopochka2 {
+border: 2px;
+    width: 86px;
+height: 78px;
+border-radius: 6px;
+background-color: #ffd670;
+}
+.knopochka3 {
+    color: black;
+    border: 1px;
+}
+.PORTFOLIO_ROMBIKI {
+    width: 338px;
+height: 338px;
+border-radius: 20px;
+background-color: #fff0ca;
+border: 7px solid #e9c979;
+transform: rotate(45deg);
+} 
