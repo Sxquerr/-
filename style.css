@@ -35,3 +35,8 @@ background-color: #fff0ca;
 border: 7px solid #e9c979;
 transform: rotate(45deg);
 } 
+.text_area {
+    width: 345px; /* Ширина поля в процентах */
+    height: 200px; /* Высота поля в пикселах */
+    resize: none; /* Запрещаем изменять размер */
+}
