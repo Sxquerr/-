@@ -5,6 +5,10 @@
 .ul1 {
     list-style: none;
 }
+/*.ul2 {
+    list-style: none;
+    border-bottom: 30px grey;
+} */
 .knopochka1 {
 border: 2px;
 width: 86px;
@@ -23,7 +27,7 @@ background-color: #ffd670;
     color: black;
     border: 1px;
 }
-.PORTFOLIO_ROMBIKI {
+.ROMBIKI {
     width: 338px;
 height: 338px;
 border-radius: 20px;
