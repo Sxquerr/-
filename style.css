@@ -1,4 +1,4 @@
-/* * { 
+ * { 
     margin: 0;
     padding: 0;
 } */
@@ -47,4 +47,23 @@ transform: rotate(45deg);
     background-color: #ffd670;
     color: white;
     border: 0px;
+}
+.jjj {
+    border: 1px solid;
+    border-width: 1px;
+    border-color: white;
+    padding: 2px;
+    width: 345px;
+}
+.blog_kvad {
+    width: 347px;
+    height: 477px;  
+    border-radius: 8px;
+    background-color: #ffd670;
+}
+.head {
+    width: 1800px;
+    height: 952px;
+    background-color: #5c5766;
+    
 }
