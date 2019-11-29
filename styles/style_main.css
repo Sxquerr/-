@@ -32,24 +32,6 @@
     list-style: none;
     border-bottom: 30px grey;
 } */
-.knopochka1 {
-    border: 2px;
-    width: 86px;
-    height: 78px;
-    border-radius: 6px;
-    background-color: #ffd670;
-}
-.knopochka2 {
-    border: 2px;
-    width: 86px;
-    height: 78px;
-    border-radius: 6px;
-    background-color: #ffd670;
-}
-.knopochka3 {
-    color: black;
-    border: 1px;
-}
 .ROMBIKI {
     width: 338px;
     height: 338px;
@@ -76,7 +58,7 @@
     border-width: 1px;
     border-color: white;
     padding: 2px;
-    width: 345px;
+    width: 330px;
 }
 .blog_kvad {
     width: 347px;
@@ -94,12 +76,11 @@
 }
 .ggg {
     width: 1800px;
-    height: 12px;
     font-size: 15px;
     letter-spacing: 2px;
     line-height: 89px;
     color: #ffffff;
-    font-family: "gg";
+    font-family: "roboto_slabregular";
     font-weight: 700;
     text-align: center;
     text-decoration: none;
@@ -116,10 +97,12 @@
 .kkk {
     display: inline-block;
     justify-content: space-around;
+    font-family: "roboto_slabregular";
 }
 .logo {
     display: flex;
     justify-content: center;
+    font-family: "Pacifico";
     position: absolute;
     z-index: 1;
     font-size: 50px;
@@ -127,7 +110,7 @@
     color: #4e4460;
     font-weight: 400;
     padding-right: 5px;
-    padding-bottom: 50%;
+    margin-bottom: 15px;
 }
 .lll {
     position: absolute;
@@ -291,9 +274,16 @@
 .u_age_work {
     color: #ffd670
 }
-.fgfg {
+.logooo {
     display: flex;
     justify-content: center;
     align-content: center;
-    margin-top: 125px;
+    margin-top: 150px;
 }
+.logoooo {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 0px;
+}
+  
